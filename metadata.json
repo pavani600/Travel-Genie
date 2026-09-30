@@ -1,0 +1,6 @@
+{
+  "name": "TripGenie AI",
+  "description": "AI-powered multimodal travel planning platform. Compare buses, trains, flights, local transportation, and hotels with your intelligent journey companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
